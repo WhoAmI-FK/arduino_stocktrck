@@ -1,0 +1,3 @@
+[submodule "source/XTBApi"]
+	path = source/XTBApi
+	url = https://github.com/federico123579/XTBApi
